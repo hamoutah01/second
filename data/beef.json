@@ -1,0 +1,27 @@
+
+  
+    {
+      "beef": [
+        {
+          "name": "Steak",
+          "description": "A juicy and tender steak, cooked to perfection."
+        },
+        {
+          "name": "Burger",
+          "description": "A classic beef burger with all your favorite toppings."
+        },
+        {
+          "name": "Stew",
+          "description": "A hearty beef stew with vegetables and rich flavors."
+        },
+        {
+          "name": "Roast",
+          "description": "A succulent beef roast, slow-cooked and seasoned with aromatic spices."
+        },
+        {
+          "name": "Meatballs",
+          "description": "Delicious beef meatballs, perfect for pasta or sandwiches."
+        }
+      ]
+  }
+  

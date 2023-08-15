@@ -1,0 +1,27 @@
+
+{
+    "sushi":[
+    {
+      "name": "California Roll",
+      "description": "A popular sushi roll with crab, avocado, and cucumber."
+    },
+    {
+      "name": "Salmon Nigiri",
+      "description": "Fresh salmon slices served over a bed of rice."
+    },
+    {
+      "name": "Tuna Sashimi",
+      "description": "Thinly sliced raw tuna, a delicacy in Japanese cuisine."
+    },
+    {
+      "name": "Rainbow Roll",
+      "description": "A colorful and flavorful sushi roll with a variety of fish."
+    },
+    {
+      "name": "Dragon Roll",
+      "description": "A unique sushi roll with eel, avocado, and a sweet eel sauce."
+    }
+  ]
+}
+
+

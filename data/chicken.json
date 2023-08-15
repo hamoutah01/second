@@ -1,0 +1,12 @@
+{
+    "employees": [
+        {"name":"Fried","description":"Fried chicken is very delicious and very light on the stomach"},
+        {"name":"Boiled","description":"Boiled chicken is very healthy however it is not that tasty."},
+        {"name":"Grilled","description":"On top of a coal fire that is very hot this kind is cooked and added to it a hot spices"},
+        {"name":"Alfredo","description":"This is the easiest, creamiest chicken alfredo you will ever make."},
+        {"name":"Lemon Pepper Chicken","description":"This lemon pepper chicken makes chicken exciting again."},
+        {"name":"Roast","description":"You need this classic recipe in your arsenal."},
+        {"name":"Biryani","description":"Chicken biryani is such an easy and delicious dinner. Served over fluffy white rice, it’s hard to resist."},
+        {"name":"Tamale Pie","description":"A layer of cornbread topped with cheesy shredded chicken."}
+    ]
+}
